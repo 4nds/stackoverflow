@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <class name="Chemicals" number="1" description="Chemicals used in industry, science and photography, as well as in agriculture, horticulture and forestry;
+            unprocessed artificial resins, unprocessed plastics; manures; fire extinguishing compositions;
+            tempering and soldering preparations; chemical substances for preserving foodstuffs; tanning substances;
+            adhesives used in industry">
+    </class>
+    <class name="Paints" number="2" description="Paints, varnishes, lacquers; preservatives against rust and against deterioration of wood; colorants; mordants;
+            raw natural resins; metals in foil and powder form for painters, decorators, printers and artists.
+            Explanatory Note This class includes mainly paints, colorants and preparations used for the protection against corrosion.
+            Includes, in particular: paints, varnishes and lacquers for industry, handicrafts and arts; dyestuffs for clothing;
+            colorants for foodstuffs and beverages.">
+    </class>
+    <class name="Cosmetics and cleaning preparations" number="3" description="Bleaching preparations and other substances for laundry use; cleaning, polishing, scouring and abrasive preparations;
+            soaps; perfumery, essential oils, cosmetics, hair lotions; dentifrices.">
+    </class>
+    <class name="Lubricants and fuels" number="4" description="Industrial oils and greases; lubricants; dust absorbing, wetting and binding compositions;
+            fuels (including motor spirit) and illuminants; candles, wicks.">
+    </class>
+    <class name="Pharmaceuticals" number="5" description="Pharmaceutical, veterinary and sanitary preparations; dietetic substances adapted for medical use, food for babies;
+            plasters, materials for dressings; material for stopping teeth, dental wax; disinfectants;
+            preparations for destroying vermin; fungicides, herbicides.">
+    </class>
+    <class name="Metal goods" number="6" description="Common metals and their alloys; metal building materials; transportable buildings of metal; materials of metal for railway tracks;
+            non-electric cables and wires of common metal; iron mongery, small items of metal hardware; pipes and tubes of metal; safes;
+            goods of common metal not included in other classes; ores.">
+    </class>
+    <class name="Machinery" number="7" description="Machines and machine tools; motors and engines (except for land vehicles); machine coupling and transmission components (except for land vehicles);
+            agricultural implements other than hand-operated; incubators for eggs">
+    </class>
+    <class name="Hand tools" number="8" description="Hand tools and implements (hand operated); cutlery; side arms; razors.">
+    </class>
+    <class name="Electrical and scientific apparatus" number="9" description="Scientific, nautical, surveying, electric, photographic, cinematographic, optical, weighing, measuring, signaling, checking (supervision), lifesaving and teaching apparatus and instruments;
+            apparatus for recording, transmission or reproduction of sound or images; magnetic data carriers, recording discs; automatic vending machines and mechanisms for coin operated apparatus;
+            cash registers, calculating machines, data processing equipment and computers; fire-extinguishing apparatus.">
+    </class>
+    <class name="Medial Apparatus" number="10" description="Surgical, medical, dental and veterinary apparatus and instruments, artificial limbs, eyes and teeth; orthopedic articles; suture materials.">
+    </class>
+    <class name="Environmental control apparatus" number="11" description="Apparatus for lighting, heating, steam generating, cooking, refrigerating, drying, ventilating, water supply and sanitary purposes">
+    </class>
+    <class name="Vehicles" number="12" description="Vehicles; apparatus for locomotion by land, air or water.">
+    </class>
+    <class name="Firearms" number="13" description="Firearms; ammunition and projectiles; explosives; fireworks.">
+    </class>
+    <class name="Jewelry" number="14" description=" Precious metals and their alloys and goods in precious metals or coated therewith, not included in other classes; jewelry, precious stones;">
+    </class>
+    <class name="Musical Instruments" number="15" description="Musical Instruments.">
+    </class>
+    <class name="Paper goods and printed matter" number="16" description="Paper, cardboard and goods made from these materials, not included in other classes; printed matter; bookbinding material;
+            photographs; stationery; adhesives for stationery or household purposes; artists' materials; paint brushes;
+            typewriters and office requisites (except furniture); instructional and teaching material (except apparatus);
+            plastic materials for packaging (not included in other classes); playing cards; printers' type; printing blocks.">
+    </class>
+    <class name="Rubber Goods" number="17" description="Rubber, gutta-percha, gum, asbestos, mica and goods made from these materials and not included in other classes;
+            plastics in extruded form for use in manufacture; packing, stopping and insulating materials; flexible pipes, not of metal">
+    </class>
+    <class name="Leather Goods" number="18" description="Leather and imitations of leather, and goods made of these materials and not included in other classes; animal skins, hides;
+            trunks and traveling bags; umbrellas, parasols and walking sticks; whips, harness and saddlery">
+    </class>
+    <class name="Nonmetallic building materials" number="19" description="Building materials (nonmetallic); nonmetallic rigid pipes for building; asphalt, pitch and bitumen; nonmetallic transportable buildings; monuments, not of metal.">
+    </class>
+    <class name="Furniture and articles not otherwise classified" number="20" description="Furniture, mirrors, picture frames; goods (not included in other classes) of wood, cork, reed, cane, wicker, horn, bone, ivory, whalebone, shell, amber, mother-of-pearl, meerschaum and substitutes for all these materials, or of plastics.">
+    </class>
+    <class name="Housewares and glass" number="21" description="Household or kitchen utensils and containers (not of precious metal or coated therewith); combs and sponges; brushes (except paint brushes); brush-making materials; articles for cleaning purposes; steel wool;
+            un-worked or semi-worked glass (except glass used in building); glassware, porcelain and earthenware not included in other classes.">
+    </class>
+    <class name="Cordage and fibers" number="22" description="Ropes, string, nets, tents, awnings, tarpaulins, sails, sacks and bags (not included in other classes); padding and stuffing materials (except of rubber or plastics); raw fibrous textile materials.">
+    </class>
+    <class name="Yarns and threads" number="23" description="Yarns and threads, for textile use">
+    </class>
+    <class name="Fabrics" number="24" description="Textiles and textile goods, not included in other classes; bed and table covers">
+    </class>
+    <class name="Clothing" number="25" description="Clothing, footwear, headgear">
+    </class>
+    <class name="Fancy goods" number="26" description="Lace and embroidery, ribbons and braid; buttons, hooks and eyes, pins and needles; artificial flowers">
+    </class>
+    <class name="Floor coverings" number="27" description="Carpets, rugs, mats and matting, linoleum and other materials for covering existing floors; wall hangings (non-textile).">
+    </class>
+    <class name="Toys and sporting goods" number="28" description="Games and playthings; gymnastic and sporting articles not included in other classes; decorations for Christmas trees.">
+    </class>
+    <class name="Meats and Processed Foods" number="29" description="Meat, fish, poultry and game; meat extracts; preserved, dried and cooked fruits and vegetables; jellies, jams, fruit sauces; eggs, milk and milk products; edible oils and fats.">
+    </class>
+    <class name="Staple Foods" number="30" description="Coffee, tea, cocoa, sugar, rice, tapioca, sago, artificial coffee; flour and preparations made from cereals, bread, pastry and confectionery, ices; honey, treacle; yeast, baking-powder;
+            salt, mustard; vinegar, sauces (condiments); spices; ice.">
+    </class>
+    <class name="Natural Agricultural Products" number="31" description="Agricultural, horticultural and forestry products and grains not included in other classes; living animals; fresh fruits and vegetables; seeds, natural plants and flowers; foodstuffs for animals, malt.">
+    </class>
+    <class name="Light beverages" number="32" description="Beers; mineral and aerated waters and other nonalcoholic drinks; fruit drinks and fruit juices; syrups and other preparations for making beverages.">
+    </class>
+    <class name="Wine and Spirits" number="33" description="Alcoholic beverages (except beers).">
+    </class>
+    <class name="Smoker's articles" number="34" description="Tobacco; smokers' articles; matches.">
+    </class>
+    <class name="Advertising and business" number="35" description="Advertising; business management; business administration; office functions.">
+    </class>
+    <class name="Insurance and Financial" number="36" description="Insurance; financial affairs; monetary affairs; real estate affairs.">
+    </class>
+    <class name="Building construction and repair" number="37" description="Building construction; repair; installation services.">
+    </class>
+    <class name="Telecommunications" number="38" description="Telecommunications">
+    </class>
+    <class name="Transport and storage" number="39" description="Transport; packaging and storage of goods; travel arrangement.">
+    </class>
+    <class name="Treatment of materials" number="40" description="Treatment of materials">
+    </class>
+    <class name="Education and entertainment" number="41" description="Education; providing of training; entertainment; sporting and cultural activities">
+    </class>
+    <class name="Computer, scientific and legal" number="42" description="Scientific and technological services and research and design relating thereto: industrial analysis and research services; design and development of computer hardware and software; legal services">
+    </class>
+    <class name="Hotels and Restaurants" number="43" description="Services for providing food and drink; temporary accommodations.">
+    </class>
+    <class name="Medical, beauty and agricultural" number="44" description="Medical services; veterinary services; hygienic and beauty care for human beings or animals; agriculture, horticulture and forestry services">
+    </class>
+    <class name="Personal" number="45" description="Personal and social services rendered by others to meet the needs of individuals; security services for the protection of property and individuals">
+    </class>
+</data>
