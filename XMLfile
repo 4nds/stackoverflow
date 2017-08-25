@@ -1,0 +1,32 @@
+<text>
+  <dialogue>
+     <pattern>
+        We're having a {nice|great} time.
+     </pattern>
+     <criterion>
+        average_person, tourist, delighted
+     </criterion>
+  </dialogue>
+     <pattern>
+        The service {here stinks|is terrible}!
+     </pattern>
+     <criterion>
+        tourist, disgruntled, average_person
+     </criterion>
+  <dialogue>
+     <pattern>
+        They have {smoothies|funny hats}. Neat!
+     </pattern>
+     <criterion>
+        tourist, smoothie_enthusiast
+     </criterion>
+  </dialogue>
+  <dialogue>
+     <pattern>
+        I wonder how {expensive|valuable} these resort tickets are?
+     </pattern>
+     <criterion>
+        merchant, average_person
+     </criterion>
+  </dialogue>
+</text>
